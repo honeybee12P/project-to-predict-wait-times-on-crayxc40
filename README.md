@@ -1,0 +1,1 @@
+This is the code for prediction of queue waiting time of jobs submitted to cray xc40. This does not contain the django python code used for deployment.
